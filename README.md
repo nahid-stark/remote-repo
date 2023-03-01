@@ -9,9 +9,13 @@ __Take it easy__
 ~~A serious Project~~  
 ## Add your Local Repository by this commands  
 `git init`  
-`git add .`
-`git commit -m "Message Here"`
-`git remote add origin https://github.com/nahid-stark/remote-repo.git`
+
+`git add .`  
+
+`git commit -m "Message Here"`  
+
+`git remote add origin https://github.com/nahid-stark/remote-repo.git`  
+
   
 Make sure that repository link is  
 `https://github.com/nahid-stark/remote-repo.git`  
