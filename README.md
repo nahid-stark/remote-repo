@@ -1,4 +1,4 @@
-# This is a test repository for learning git push & git pull  
+<h1 style = "color: green"> This is a test repository for learning git push & git pull<h1/>  
 
 <br/>  
 
@@ -6,7 +6,7 @@ _Test repo_
 
 __Take it easy__  
 
-~~A serious Project~~  
+<p style = "color: purple"><del>A serious Project<p/>  
 ## Add your Local Repository by this commands  
 `git init`  
 
@@ -17,7 +17,7 @@ __Take it easy__
 `git remote add origin https://github.com/nahid-stark/remote-repo.git`  
 
   
-Make sure that repository link is  
+<p style="color: green">Make sure that repository link is<p/>  
 `https://github.com/nahid-stark/remote-repo.git`  
   
 ### Open Account on  
@@ -48,7 +48,7 @@ int main()
   [<img src="./GitHub-logo.png" width="50"/>](www.github.com)
   [<img src="./png-transparent-black-facebook-logo-computer-icons-social-media-youtube-facebook-messenger-social-media-logo-internet-social-network.png" width="50"/>](www.facebook.com)
   [<img src="./png-transparent-logo-computer-icons-instagram-logo-miscellaneous-text-logo.png" width="30"/>](www.instragram.com)  
-  | Repository Partner | Gmail |
+  | <p style="color: orange">Repository Partner | <p style="color: orange">Gmail |
   | ------------------- | ------ |
-  | Nahid | mminahid@gmail.com |
-  | Mohaiminul Islam | mohaiminulislamnahid@gmail.com |
+  | <p style="color: green">Nahid | mminahid@gmail.com |
+  | <p style="color: green">Mohaiminul Islam | mohaiminulislamnahid@gmail.com |
